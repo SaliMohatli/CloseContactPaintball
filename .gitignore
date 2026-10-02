@@ -1,0 +1,18 @@
+## Visual Studio / .NET GitIgnore
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+_ReSharper*/
+
+# SQL Server local / temp files
+*.mdf
+*.ldf
+*.ndf
+*.bak
